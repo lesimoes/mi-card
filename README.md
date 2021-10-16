@@ -2,4 +2,4 @@
 
 ### My first app with Flutter :)
 
-![GitHub print](https://github.com/lesimoes/mi-card/blob/main/images/print.png?raw=true | width=200)
+<img src="https://raw.githubusercontent.com/lesimoes/mi-card/main/images/print.png" width="300">
